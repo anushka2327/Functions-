@@ -51,6 +51,6 @@ In main Function
 3)Print the value of a  
 4)Print the value of b  
 5)End    
-Conclusion  
+## Conclusion  
 We learnt about the operations on pointers  
 
